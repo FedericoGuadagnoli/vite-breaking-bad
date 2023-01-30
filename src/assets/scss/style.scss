@@ -1,0 +1,10 @@
+@use './partials/variables.scss' as *;
+
+body {
+    background-color: $bg-page-color;
+}
+
+.container-fluid {
+    width: 90%;
+    margin: 0 auto;
+}
